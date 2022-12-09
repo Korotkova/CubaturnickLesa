@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/apiWeather"
+        android:title="Какая погода?"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mainMenu"
+        android:title="Главное меню"
+        app:showAsAction="never"/>
+</menu>
